@@ -1,4 +1,4 @@
-"Guid","AnnualRevenue","City","Company","Country","Description","Email","EmailBouncedReason","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","NumberOfEmployees","Phone","PostalCode","Rating","Salutation","State","Status","Street","Title","Website"
+"Guid","AnnualRevenue","City","Company","Country","Description","Email","EmailBouncedReason","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","NumberOfEmployees","Phone","PostalCode","Rating","Salutation","State","Status","Street","Test_Rich_Text_area__c","Title","Website"
 27a989d4-a5e7-4521-bbdc-25eb5134c746,44.0,Jaipur,Test Pvt Ltd,India,"jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
 jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
@@ -6,5 +6,4 @@ jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
 jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
-jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A",Krishna,"#N/A",Healthcare,false,false,"#N/A",Sharma,"#N/A",Advertisement,"#N/A",545,5456466,302020,Warm,Mr.,rajasthan,New,Kalyan,Test,www.case.com
-9d31a3c8-6a8b-40b1-bf06-e9c3fa71169a,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Hari,"#N/A","#N/A",false,false,"#N/A",Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A",New,"#N/A","#N/A","#N/A"
+
